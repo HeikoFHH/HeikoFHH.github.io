@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Heiko Hoppe — AI Researcher</title>
+    <meta
+      name="description"
+      content="Heiko Hoppe is a Ph.D. candidate at TUM and visiting researcher at MIT working on reinforcement learning for large action spaces, combinatorial decision-making and logistics."
+    />
+    <meta property="og:title" content="Heiko Hoppe — AI Researcher" />
+    <meta
+      property="og:description"
+      content="Reinforcement learning for large and structured action spaces. Ph.D. candidate at TUM, visiting researcher at MIT."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://heikofhh.github.io/" />
+    <meta property="og:image" content="https://heikofhh.github.io/og-image.jpg" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <script>
+      // Apply the saved/system theme before first paint to avoid a flash.
+      try {
+        var t = localStorage.getItem("theme");
+        var dark = t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.classList.toggle("dark", dark);
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

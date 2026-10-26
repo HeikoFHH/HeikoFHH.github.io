@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg1" width="935.95972" height="332.77713" viewBox="0 0 935.95971 332.77712">
+  <defs id="defs1">
+    <clipPath id="clipPath50">
+      <path d="M 92.924155,-17.008043 H 163.79118 V 17.008058 H 92.924155 Z" id="path50"></path>
+    </clipPath>
+    <clipPath id="clipPath65">
+      <path d="m 92.924155,-108.5148 h 70.867025 v 34.016106 H 92.924155 Z" id="path65"></path>
+    </clipPath>
+  </defs>
+  <g id="g1" transform="matrix(1.4486617,0,0,1.4486617,-121.59325,-744.50884)" style="stroke-width:0.690292">
+    <path id="path108" d="m 274.80286,698.18709 c -0.85493,-0.21115 -4.61298,-1.40764 -6.96177,-2.7097 v 5.4194 c 2.34879,-1.30205 6.10684,-2.49855 6.96177,-2.7097 z" style="fill:#d62728;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path116" d="m 375.96,698.18708 h 69.00297" style="fill:none;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path117" d="m 451.92474,698.18709 c -0.85492,-0.21115 -4.61298,-1.40764 -6.96176,-2.7097 v 5.4194 c 2.34878,-1.30205 6.10684,-2.49855 6.96176,-2.7097 z" style="fill:#d62728;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path121" d="m 553.08189,698.18708 h 69.00296" style="fill:none;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path122" d="m 629.04662,698.18709 c -0.85492,-0.21115 -4.61298,-1.40764 -6.96176,-2.7097 v 5.4194 c 2.34878,-1.30205 6.10684,-2.49855 6.96176,-2.7097 z" style="fill:#d62728;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path131" d="m 494.70418,571.91614 c 2.06208,4.12435 6.87386,6.87385 13.74771,6.87385 h 53.05941 c 6.87385,0 11.68563,2.7495 13.7477,6.87387 2.06208,-4.12437 6.87386,-6.87387 13.74771,-6.87387 h 53.05944 c 6.87386,0 11.68564,-2.7495 13.74771,-6.87385" style="fill:none;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path143" d="M 680.75886,674.16762 V 600.72843" style="fill:none;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <path id="path144" d="m 680.75888,593.76667 c -0.21115,0.85492 -1.40764,4.61298 -2.70969,6.96176 h 5.41939 c -1.30205,-2.34878 -2.49854,-6.10684 -2.7097,-6.96176 z" style="fill:#d62728;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.73356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;fill:#0065bd;fill-opacity:1;stroke-width:0.476503" x="191.2776" y="742.29224" id="text192">
+      <tspan id="tspan192" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.8593px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0065bd;fill-opacity:1;stroke-width:0.476503" x="191.2776" y="742.29224">Blue: inference</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;fill:#d62728;fill-opacity:1;stroke-width:0.476503" x="464.11853" y="740.93597" id="text193">
+      <tspan id="tspan193" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.8593px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#d62728;fill-opacity:1;stroke-width:0.476503" x="464.11853" y="740.93597">Red: training</tspan>
+    </text>
+    <g id="g253" style="display:inline;stroke-width:0.666993" transform="matrix(1.0349316,0,0,1.0349316,-14.036277,-28.138575)">
+      <path id="path44" d="M 170.54684,28.74509 H -42.18918 c -2.75117,0 -4.98138,-2.23019 -4.98138,-4.98139 v -47.5274 c 0,-2.7512 2.23021,-4.98139 4.98138,-4.98139 h 212.73602 c 2.75118,0 4.98139,2.23019 4.98139,4.98139 v 47.5274 c 0,2.7512 -2.23021,4.98139 -4.98139,4.98139 z" style="fill:#eaf2fb;fill-opacity:1;fill-rule:nonzero;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.99352, 1.99352;stroke-dashoffset:0;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+      <g id="g257" style="stroke-width:0.666993">
+        <path id="path45" d="m -35.4335,-17.00804 h 70.86702 v 34.0161 H -35.4335 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+        <path id="path49" d="m 104.2627,17.00804 h 48.18994 L 163.79118,0 152.45264,-17.00804 H 104.2627 L 92.92415,0 Z" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)" clip-path="url(#clipPath50)"></path>
+        <path id="path99" d="m 157.91334,684.17954 v -72.2519" style="fill:none;stroke:#0065bd;stroke-width:0.7088;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"></path>
+        <path id="path100" d="M 5.04509,0 C 4.42554,0.15302 1.70213,1.0201 0,1.96368 V -1.96368 C 1.70213,-1.0201 4.42554,-0.15302 5.04509,0 Z" style="fill:#0065bd;fill-opacity:1;fill-rule:nonzero;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(0,-1.3333333,-1.3333333,0,157.91333,611.92764)"></path>
+        <path id="path101" d="M 35.83202,0 H 85.83746" style="fill:none;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+        <path id="path102" d="M 5.04509,0 C 4.42554,0.15302 1.70213,1.0201 0,1.96368 V -1.96368 C 1.70213,-1.0201 4.42554,-0.15302 5.04509,0 Z" style="fill:#0065bd;fill-opacity:1;fill-rule:nonzero;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,272.36328,579.80133)"></path>
+        <path id="path105" d="m 164.18968,0 h 33.39568" style="fill:none;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+        <path id="path106" d="M 5.04509,0 C 4.42554,0.15302 1.70213,1.0201 0,1.96368 V -1.96368 C 1.70213,-1.0201 4.42554,-0.15302 5.04509,0 Z" style="fill:#0065bd;fill-opacity:1;fill-rule:nonzero;stroke:#0065bd;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,421.36048,579.80133)"></path>
+      </g>
+      <g id="g254" style="stroke-width:0.666993" transform="translate(-0.03196773)">
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="134.22925" y="575.10828" id="text198">
+          <tspan id="tspan198" style="font-size:12.4253px;stroke-width:0.46042" x="134.22925" y="575.10828">Encoder</tspan>
+        </text>
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="150.41869" y="591.61438" id="text199">
+          <tspan id="tspan199" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" x="150.41869" y="591.61438">φ<tspan style="font-size:65%;baseline-shift:sub;stroke-width:0.46042" id="tspan201">w</tspan></tspan>
+        </text>
+      </g>
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;fill:#0065bd;fill-opacity:1;stroke-width:0.46042" x="214.35852" y="532.81708" id="text194">
+        <tspan id="tspan194" style="font-size:12.4253px;fill:#0065bd;fill-opacity:1;stroke-width:0.46042" x="214.35852" y="532.81708"><tspan style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#0065bd;fill-opacity:1;stroke-width:0.46042" id="tspan197">Actor</tspan> <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#0065bd;fill-opacity:1;stroke-width:0.46042" id="tspan196">π</tspan>(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#0065bd;fill-opacity:1;stroke-width:0.46042" id="tspan195">x</tspan>)</tspan>
+      </text>
+      <g id="g255" style="stroke-width:0.666993" transform="translate(0.04740444)">
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;display:inline;fill:#0065bd;fill-opacity:1;stroke-width:0.46042" x="224.246" y="575.26013" id="text202">
+          <tspan id="tspan202" style="fill:#0065bd;fill-opacity:1;stroke-width:0.46042" x="224.246" y="575.26013">Scores</tspan>
+        </text>
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;display:inline;fill:#0065bd;fill-opacity:1;stroke-width:0.46042" x="239.75943" y="594.08368" id="text210">
+          <tspan id="tspan210" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#0065bd;fill-opacity:1;stroke-width:0.46042" x="239.75943" y="594.08368">θ</tspan>
+        </text>
+      </g>
+      <g id="g256" style="stroke-width:0.666993" transform="translate(-0.1735977)">
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="301.90756" y="575.26599" id="text203">
+          <tspan id="tspan203" style="stroke-width:0.46042" x="301.90756" y="575.26599">CO-Layer</tspan>
+        </text>
+        <g id="g240" transform="translate(0.40448556,43.863342)" style="stroke-width:0.666993">
+          <path style="font-style:italic;font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial Italic';letter-spacing:0px;stroke-width:0.46042" d="m 314.49868,540.52519 1.60776,-1.66843 h 1.21341 l 0.75231,1.66843 h -0.95859 l -0.48536,-1.07993 -1.00106,1.07993 z" id="text204" aria-label="â"></path>
+          <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="311.87772" y="547.75104" id="text206">
+            <tspan id="tspan206" style="stroke-width:0.46042" x="311.87772" y="547.75104"><tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan209">y</tspan>(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan208">θ</tspan>, <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan207">x</tspan>)</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="g248" style="stroke-width:0.666993" transform="matrix(1.0349316,0,0,1.0349316,-13.59637,-28.138575)">
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="154.48169" y="714.70599" id="text243">
+        <tspan id="tspan243" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" x="154.48169" y="714.70599">x</tspan>
+      </text>
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="142.96075" y="698.40808" id="text242">
+        <tspan id="tspan242" style="stroke-width:0.46042" x="142.96075" y="698.40808">State</tspan>
+      </text>
+    </g>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="445.05838" y="567.0592" id="text211">
+      <tspan id="tspan211" style="stroke-width:0.476503" x="445.05838" y="567.0592">Action</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="437.37729" y="583.94165" id="text212">
+      <tspan id="tspan212" style="stroke-width:0.476503" x="437.37729" y="583.94165"><tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.476503" id="tspan214">y</tspan> ∈ 𝒴(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.476503" id="tspan213">x</tspan>)</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="414.19095" y="614.86029" id="text215">
+      <tspan id="tspan215" style="stroke-width:0.476503" x="414.19095" y="614.86029">Backpropagation</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="662.64557" y="567.0592" id="text217">
+      <tspan id="tspan217" style="stroke-width:0.476503" x="662.64557" y="567.0592">Target</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="677.01184" y="584.1416" id="text218">
+      <tspan id="tspan218" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.476503" x="677.01184" y="584.1416">ȳ</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="555.54883" y="604.15045" id="text219">
+      <tspan id="tspan219" style="stroke-width:0.476503" x="555.54883" y="604.15045">L<tspan style="font-size:8.35857px;baseline-shift:sub;stroke-width:0.476503" id="tspan221">Ω</tspan>(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.476503" id="tspan222">θ</tspan>;<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.476503" id="tspan220">ȳ</tspan>)</tspan>
+    </text>
+    <text xml:space="preserve" style="font-size:12.8593px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.476503" x="518.742" y="567.0592" id="text216">
+      <tspan id="tspan216" style="stroke-width:0.476503" x="518.742" y="567.0592">Fenchel-Young loss</tspan>
+    </text>
+    <g id="g259" transform="matrix(1.0349316,0,0,1.0349316,-14.036277,-28.138575)" style="stroke-width:0.666993">
+      <path id="path64" d="m 104.2627,-74.49869 h 48.18994 l 11.33854,-17.00804 -11.33854,-17.00806 H 104.2627 l -11.33855,17.00806 z" style="fill:#fdecea;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)" clip-path="url(#clipPath65)"></path>
+      <path id="path72" d="m 221.28183,-108.51479 h 70.86702 v 34.0161 h -70.86702 z" style="fill:#fdecea;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+      <path id="path76" d="m 349.63951,-108.51479 h 70.86702 v 34.0161 h -70.86702 z" style="fill:#fdecea;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+      <g id="g251" transform="translate(-108.88035,-56.374112)" style="display:inline;stroke-width:0.666993">
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="669.39081" y="769.57715" id="text226-5">
+          <tspan id="tspan226-0" style="stroke-width:0.46042" x="669.39081" y="769.57715"><tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan230-0">Q <tspan style="font-size:65%;baseline-shift:sub;stroke-width:0.46042" id="tspan231-4">   </tspan></tspan>(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan229-5">x</tspan>, <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan227-4">y'</tspan>)</tspan>
+        </text>
+        <text xml:space="preserve" style="font-size:8.28351px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;fill:#000000;stroke-width:0.46042" x="679.45764" y="772.13641" id="text232-9">
+          <tspan id="tspan232-5" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.28351px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#000000;stroke-width:0.46042" x="679.45764" y="772.13641">ψ<tspan style="font-size:65%;baseline-shift:sub;stroke-width:0.46042" id="tspan233-6">β</tspan></tspan>
+        </text>
+      </g>
+      <g id="g250" transform="translate(160.84814,-1.5533412)" style="stroke-width:0.666993">
+        <g id="g240-2" style="stroke-width:0.666993" transform="translate(-160.69612,167.00534)">
+          <path style="font-style:italic;font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:'Arial Italic';letter-spacing:0px;stroke-width:0.46042" d="m 314.49868,540.52519 1.60776,-1.66843 h 1.21341 l 0.75231,1.66843 h -0.95859 l -0.48536,-1.07993 -1.00106,1.07993 z" id="text204-0" aria-label="â"></path>
+          <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="311.87772" y="547.75104" id="text206-7">
+            <tspan id="tspan206-0" style="stroke-width:0.46042" x="311.87772" y="547.75104"><tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan209-6">y</tspan>(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan241">η</tspan>, <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan207-7">x</tspan>)</tspan>
+          </text>
+        </g>
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;display:inline;stroke-width:0.46042" x="142.96075" y="698.40808" id="text240">
+          <tspan id="tspan240" style="stroke-width:0.46042" x="142.96075" y="698.40808">CO-layer</tspan>
+        </text>
+      </g>
+      <g id="g252" transform="translate(1.7342505,0.88199801)" style="stroke-width:0.666993">
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="639.42017" y="695.96667" id="text223">
+          <tspan id="tspan223" style="stroke-width:0.46042" x="639.42017" y="695.96667">Softmax of</tspan>
+        </text>
+        <g id="g235" style="display:inline;stroke-width:0.666993" transform="translate(-27.786692,-57.275913)">
+          <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="669.39081" y="769.57715" id="text224">
+            <tspan id="tspan224" style="font-size:65%;baseline-shift:super;stroke-width:0.46042" x="669.39081" y="769.57715">1</tspan>
+          </text>
+          <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="669.31195" y="769.57715" id="text225">
+            <tspan id="tspan225" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:Arial;-inkscape-font-specification:'Arial Italic';baseline-shift:sub;stroke-width:0.46042" x="669.31195" y="769.57715">τ</tspan>
+          </text>
+          <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="669.39081" y="769.57715" id="text226">
+            <tspan id="tspan226" style="stroke-width:0.46042" x="669.39081" y="769.57715"><tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan230">  Q <tspan style="font-size:65%;baseline-shift:sub;stroke-width:0.46042" id="tspan231">   </tspan></tspan>(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan229">x</tspan>, <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan227">y'</tspan>)</tspan>
+          </text>
+          <text xml:space="preserve" style="font-size:8.28351px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;fill:#000000;stroke-width:0.46042" x="685.88043" y="772.13641" id="text232">
+            <tspan id="tspan232" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.28351px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#000000;stroke-width:0.46042" x="685.88043" y="772.13641">ψ<tspan style="font-size:65%;baseline-shift:sub;stroke-width:0.46042" id="tspan233">β</tspan></tspan>
+          </text>
+          <path style="fill:none;stroke:#000000;stroke-width:0.666992;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1" d="m 669.12089,766.01647 h 4.87591" id="path235"></path>
+        </g>
+      </g>
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="560.88525" y="696.85474" id="text235">
+        <tspan id="tspan235" style="stroke-width:0.46042" x="560.88525" y="696.85474">Q-values</tspan>
+      </text>
+      <g id="g258" transform="translate(-0.16870444)" style="stroke-width:0.666993">
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;display:inline;fill:#000000;stroke-width:0.46042" x="493.13208" y="713.20306" id="text232-9-8">
+          <tspan id="tspan232-5-3" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.4253px;font-family:Arial;-inkscape-font-specification:'Arial Italic';baseline-shift:baseline;fill:#000000;stroke-width:0.46042" x="493.13208" y="713.20306">ψ<tspan style="font-size:65%;baseline-shift:sub;stroke-width:0.46042" id="tspan237">β</tspan></tspan>
+        </text>
+        <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="485.96902" y="696.84869" id="text236">
+          <tspan id="tspan236" style="stroke-width:0.46042" x="485.96902" y="696.84869">Critic</tspan>
+        </text>
+      </g>
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;display:inline;stroke-width:0.46042" x="409.73117" y="713.05133" id="text239">
+        <tspan id="tspan239" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" x="409.73117" y="713.05133">y'</tspan>
+      </text>
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;display:inline;stroke-width:0.46042" x="394.32089" y="696.69702" id="text238">
+        <tspan id="tspan238" style="stroke-width:0.46042" x="394.32089" y="696.69702">Actions</tspan>
+      </text>
+      <path id="path107" d="m 64.17882,-14.94633 v -76.5604 h 21.65864" style="fill:none;stroke:#d62728;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+      <path id="path141" d="M 5.04509,0 C 4.42554,0.15302 1.70213,1.0201 0,1.96368 V -1.96368 C 1.70213,-1.0201 4.42554,-0.15302 5.04509,0 Z" style="fill:#d62728;fill-opacity:1;fill-rule:nonzero;stroke:#d62728;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" transform="matrix(0,-1.3333333,-1.3333333,0,183.01168,611.92764)"></path>
+      <path id="path140" d="m 308.6188,-28.3468 v -8.50412 H 18.82376 v 12.75619" style="fill:none;stroke:#d62728;stroke-width:0.5316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.99352, 1.99352;stroke-dashoffset:0;stroke-opacity:1" transform="matrix(1.3333333,0,0,-1.3333333,157.91333,579.80133)"></path>
+    </g>
+    <g id="g249" transform="matrix(1.0349316,0,0,1.0349316,-16.893899,-28.138575)" style="stroke-width:0.666993">
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="255.13281" y="668.01172" id="text245">
+        <tspan id="tspan245" style="stroke-width:0.46042" x="255.13281" y="668.01172">𝒩(<tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan246">θ</tspan>, <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan247">σ</tspan>) → <tspan style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Italic';stroke-width:0.46042" id="tspan248">η</tspan></tspan>
+      </text>
+      <text xml:space="preserve" style="font-size:12.4253px;line-height:1.15;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;stroke-width:0.46042" x="261.65726" y="651.52802" id="text244">
+        <tspan id="tspan244" style="stroke-width:0.46042" x="261.65726" y="651.52802">Gaussian</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
